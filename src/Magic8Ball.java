@@ -21,13 +21,13 @@ public class Magic8Ball {
             System.out.println("you chose wrong");
         }
         else if(number >= 11 && number <= 20){
-            System.out.println("you have recieved the black plague");
+            System.out.println("i have to inform you that it's a no");
         }
         else if(number >= 21 && number <= 30){
             System.out.println("i follow you with your decision 100%");
         }
         else if(number >= 31 && number <= 40){
-            System.out.println("you are going to kermit suicide");
+            System.out.println("go away, I'm tryna sleep");
         }
         else if(number >= 41 && number <= 50){
             System.out.println("i agree with your decision");
